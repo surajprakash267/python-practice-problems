@@ -19,6 +19,9 @@ This repository contains my **Python learning journey** — from beginner to adv
 | 8 | `08_reverse_number.py` | Reverse a number or string |
 | 9 | `09_prime_check.py` | Check if a number is prime |
 | 10 | `10_count_chars.py` | Count letters, digits, and spaces in a string |
+| 11 | `11_Palindrome.py` | Check whether the number is palidrome or not |
+| 12 | `12_Armstrong_number.py` | Check whether the number is Armstrong or not |
+
 
 ---
 
